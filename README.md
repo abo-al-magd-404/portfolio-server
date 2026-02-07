@@ -119,3 +119,11 @@ The server will run on: **http://localhost:5000**
 ## 🛠️ Built With
 
 This project demonstrates modern backend development practices with focus on security, performance, and maintainability.
+
+---
+
+
+## Author Information
+- **Name:** Abo Al Magd
+- **GitHub:** [abo-al-magd-404](https://github.com/abo-al-magd-404)
+- **Email:** [abo.al.magd.404@gmail.com](mailto:abo.al.magd.404@gmail.com)
